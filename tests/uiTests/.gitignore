@@ -1,0 +1,11 @@
+# Carpeta generada por Cypress con resultados de pruebas
+/cypress/videos/
+/cypress/screenshots/
+
+# Carpeta generada por Cypress con datos y configuración de prueba
+/cypress/fixtures/
+/cypress/plugins/
+/cypress/support/
+
+# Dependencias de desarrollo de Cypress (asegúrate de que tengas un archivo package.json en tu proyecto que liste estas dependencias)
+/node_modules/
