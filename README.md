@@ -31,6 +31,9 @@ Para ejecutar las pruebas, utiliza el siguiente comando:
 
 Esto abrirá la interfaz de Cypress, donde podrás seleccionar y ejecutar pruebas individuales o en conjunto.
 
+![gif](https://github.com/Project-PediSoft/Testing/assets/75964273/f23a5120-d70c-473f-a2c2-4db016713f73)
+
+
 ## Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
