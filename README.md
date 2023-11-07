@@ -25,8 +25,8 @@ Antes de comenzar, asegúrate de tener instalado [Node.js](https://nodejs.org/) 
 ## Ejecución de Pruebas
 
 Para ejecutar las pruebas, utiliza el siguiente comando:
-   ```bash
-    npm run cypress:open
+        
+       npm run cypress:open
 
 
 Esto abrirá la interfaz de Cypress, donde podrás seleccionar y ejecutar pruebas individuales o en conjunto.
