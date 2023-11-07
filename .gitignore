@@ -1,0 +1,4 @@
+
+
+# Dependencias de desarrollo de Cypress (asegúrate de que tengas un archivo package.json en tu proyecto que liste estas dependencias)
+/node_modules/
