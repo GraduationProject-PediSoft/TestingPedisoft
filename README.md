@@ -56,4 +56,4 @@ Mochawesome Report es un complemento para Mocha que genera informes de pruebas v
 
 ## Colaboración
 
-Si deseas contribuir a este proyecto, puedes hacerlo a través de [pull requests](https://github.com/Project-PediSoft/Testing.git).
+Si deseas contribuir a este proyecto, puedes hacerlo a través de [pull requests](https://github.com/Project-PediSoft/Testing/pulls).
