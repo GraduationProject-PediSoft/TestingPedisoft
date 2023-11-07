@@ -36,7 +36,7 @@ Esto abrirá la interfaz de Cypress, donde podrás seleccionar y ejecutar prueba
 El proyecto está organizado de la siguiente manera:
 
 - `cypress/` - Contiene las pruebas Cypress.
-- `cypress/integration/` - Aquí se encuentran los archivos de pruebas.
+- `cypress/e2e/` - Aquí se encuentran los archivos de pruebas.
 - `cypress/support/` - Contiene archivos de soporte para configuración.
 - `cypress/plugins/` - Contiene complementos personalizados.
 
