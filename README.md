@@ -45,6 +45,11 @@ El proyecto está organizado de la siguiente manera:
 
 Siéntete libre de personalizar las pruebas para adaptarlas a tu aplicación web. Puedes agregar más pruebas en `cypress/e2e/` y modificar la configuración en `cypress/support/`.
 
+## Reportes
+
+![image](https://github.com/Project-PediSoft/Testing/assets/75964273/4299b74c-df7c-43d1-9d9c-176930b75aa6)
+
+
 ## Colaboración
 
 Si deseas contribuir a este proyecto, puedes hacerlo a través de [pull requests](https://github.com/Project-PediSoft/Testing.git).
