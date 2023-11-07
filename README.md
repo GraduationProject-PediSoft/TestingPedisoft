@@ -27,3 +27,27 @@ Antes de comenzar, asegúrate de tener instalado [Node.js](https://nodejs.org/) 
 Para ejecutar las pruebas, utiliza el siguiente comando:
    ```bash
     npm run cypress:open
+
+
+Esto abrirá la interfaz de Cypress, donde podrás seleccionar y ejecutar pruebas individuales o en conjunto.
+
+## Estructura del Proyecto
+
+El proyecto está organizado de la siguiente manera:
+
+- `cypress/` - Contiene las pruebas Cypress.
+- `cypress/integration/` - Aquí se encuentran los archivos de pruebas.
+- `cypress/support/` - Contiene archivos de soporte para configuración.
+- `cypress/plugins/` - Contiene complementos personalizados.
+
+## Personalización
+
+Siéntete libre de personalizar las pruebas para adaptarlas a tu aplicación web. Puedes agregar más pruebas en `cypress/integration/` y modificar la configuración en `cypress/support/`.
+
+## Colaboración
+
+Si deseas contribuir a este proyecto, puedes hacerlo a través de [pull requests](https://github.com/tu-usuario/tu-proyecto-cypress/pulls).
+
+## Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE).
