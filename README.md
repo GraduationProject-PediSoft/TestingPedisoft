@@ -38,12 +38,12 @@ Esto abrirá la interfaz de Cypress, donde podrás seleccionar y ejecutar prueba
 
 El proyecto está organizado de la siguiente manera:
 
-- `jmeter/` - Contiene las pruebas Jmeter (independiente).
 - `cypress/` - Contiene las pruebas Cypress.
 - `cypress/e2e/` - Aquí se encuentran los archivos de pruebas.
 - `cypress/support/` - Contiene archivos de soporte para configuración.
 - `cypress/fixtures/` - Contiene complementos personalizados.
 - `cypress/results/` - Contiene reportes de Mocha.
+- `jmeter/` - Contiene las pruebas Jmeter (independiente).
 
 ## Personalización
 
